@@ -2,6 +2,7 @@
 #include<stdlib.h>
 #include<iostream>
 
+//these are some basic operation function on linked list. 
 struct node
 {
     int data;
