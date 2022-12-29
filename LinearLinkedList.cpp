@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<iostream>
 
-//these are some basic operation function on linked list. 
+//these are some basic operation function on linear linked list. 
 struct node
 {
     int data;
