@@ -2,6 +2,8 @@
 #include<iostream>
 #include<stdlib.h>
 
+//these are some basic operation function on circular linked list. 
+
 struct node
 {
     int data;
